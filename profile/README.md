@@ -5,9 +5,9 @@ Welcome to my organization's main repository on GitHub! Here you will find a col
 
 | Proyecto | Descripción | Lenguaje |
 |---------|-------------|----------|
-| 🎮 [Tic-Tac-Toe](https://github.com/Andyporras/Tic-Tac-Toe) | Juego de tres en raya con inteligencia artificial. | Python |
-| 🧱 [Tetris](https://github.com/Andyporras/tetris) | Implementación del clásico Tetris. | JavaScript |
-| ❓ [TriviaAndy](https://github.com/Andyporras/triviaAndy) | Juego de preguntas y respuestas. | JavaScript |
+| 🎮 [Tic-Tac-Toe](https://github.com/Andyporras/Tic-Tac-Toe) | Tic-tac-toe game with artificial intelligence. | Python |
+| 🧱 [Tetris](https://github.com/Proyecto-Futuros-Andy-A-Porras-R/tetris) | Implementation of the classic Tetris. | JavaScript |
+| ❓ [TriviaAndy](https://github.com/Proyecto-Futuros-Andy-A-Porras-R/triviaAndy) | Question and answer game. | JavaScript |
 | 🁬 Domino *(Privado)* | Juego de dominó usando Pygame. | Python |
 
 ---
@@ -16,9 +16,9 @@ Welcome to my organization's main repository on GitHub! Here you will find a col
 
 | Proyecto | Descripción | Lenguaje |
 |----------|-------------|----------|
-| 🚗 MiniWaze | Proyecto de navegación/mapas inspirado en Waze. | Python |
-| 💼 Sistema de Ventas *(Privado)* | App con interfaz Tkinter para gestión de productos, clientes y ventas. | Python |
-| 📊 CRM | Plataforma tipo CRM desarrollada con ASP.NET Core MVC. | C# |
+| 🚗 MiniWaze | Navigation/maps project inspired by Waze. | Python |
+| 💼 Sistema de Ventas *(Privado)* | App with Tkinter interface for product, customer and sales management. | Python |
+| 📊 CRM | CRM type platform developed with ASP.NET Core MVC. | C# |
 
 
 ## Contact:
