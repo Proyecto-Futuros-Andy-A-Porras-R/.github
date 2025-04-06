@@ -1,9 +1,9 @@
 # 💼 Andy's Dev Portfolio
 Welcome to my organization's main repository on GitHub! Here you will find a collection of personal projects, games, web applications and tools that I have developed as a Computer Engineering student and software development enthusiast.
 
-## 🕹 Videojuegos
+## 🕹 Videogame 
 
-| Proyecto | Descripción | Lenguaje |
+| Project | Description | Language |
 |---------|-------------|----------|
 | 🎮 [Tic-Tac-Toe](https://github.com/Andyporras/Tic-Tac-Toe) | Tic-tac-toe game with artificial intelligence. | Python |
 | 🧱 [Tetris](https://github.com/Proyecto-Futuros-Andy-A-Porras-R/tetris) | Implementation of the classic Tetris. | JavaScript |
@@ -12,9 +12,9 @@ Welcome to my organization's main repository on GitHub! Here you will find a col
 
 ---
 
-## 🧰 Herramientas y Apps
+## 🧰 Tools and Apps
 
-| Proyecto | Descripción | Lenguaje |
+| Project | Description | Language |
 |----------|-------------|----------|
 | 🚗 MiniWaze | Navigation/maps project inspired by Waze. | Python |
 | 💼 Sistema de Ventas *(Privado)* | App with Tkinter interface for product, customer and sales management. | Python |
