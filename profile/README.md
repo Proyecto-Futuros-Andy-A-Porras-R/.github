@@ -1,7 +1,26 @@
 # 💼 Andy's Dev Portfolio
-Welcome to Andy's development portfolio! 🚀
+Welcome to my organization's main repository on GitHub! Here you will find a collection of personal projects, games, web applications and tools that I have developed as a Computer Engineering student and software development enthusiast.
 
-Here you will find a collection of personal, academic and collaborative projects, organized by technologies, languages or subject areas.
+## 🕹 Videojuegos
+
+| Proyecto | Descripción | Lenguaje |
+|---------|-------------|----------|
+| 🎮 [Tic-Tac-Toe](https://github.com/Andyporras/Tic-Tac-Toe) | Juego de tres en raya con inteligencia artificial. | Python |
+| 🧱 [Tetris](https://github.com/Andyporras/tetris) | Implementación del clásico Tetris. | JavaScript |
+| ❓ [TriviaAndy](https://github.com/Andyporras/triviaAndy) | Juego de preguntas y respuestas. | JavaScript |
+| 🁬 Domino *(Privado)* | Juego de dominó usando Pygame. | Python |
+
+---
+
+## 🧰 Herramientas y Apps
+
+| Proyecto | Descripción | Lenguaje |
+|----------|-------------|----------|
+| 🚗 MiniWaze | Proyecto de navegación/mapas inspirado en Waze. | Python |
+| 💼 Sistema de Ventas *(Privado)* | App con interfaz Tkinter para gestión de productos, clientes y ventas. | Python |
+| 📊 CRM | Plataforma tipo CRM desarrollada con ASP.NET Core MVC. | C# |
+
+
 ## Contact:
  [![Correo electrónico](https://img.shields.io/badge/Correo%20electr%C3%B3nico-%230078D4.svg?logo=Gmail&logoColor=white)](andyporras6@gmail.com)
  [![Correo electrónico](https://img.shields.io/badge/Correo%20electr%C3%B3nico-%230078D4.svg?logo=Gmail&logoColor=white)](andyporras@estudiantec.cr)
