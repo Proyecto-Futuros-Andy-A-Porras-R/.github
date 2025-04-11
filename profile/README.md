@@ -18,7 +18,7 @@ Welcome to my organization's main repository on GitHub! Here you will find a col
 |----------|-------------|----------|
 | 🚗 MiniWaze | Navigation/maps project inspired by Waze. | Python |
 | 💼 Sistema de Ventas *(Privado)* | App with Tkinter interface for product, customer and sales management. | Python |
-| 📊 CRM | CRM type platform developed with ASP.NET Core MVC. | C# |
+| 📊 [CRM](https://github.com/Andyporras/CRM) | CRM type platform developed with ASP.NET Core MVC. | C# |
 
 
 ## Contact:
