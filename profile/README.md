@@ -8,7 +8,6 @@ Welcome to my organization's main repository on GitHub! Here you will find a col
 | 🎮 [Tic-Tac-Toe](https://github.com/Andyporras/Tic-Tac-Toe) | Tic-tac-toe game with artificial intelligence. | Python |
 | 🧱 [Tetris](https://github.com/Proyecto-Futuros-Andy-A-Porras-R/tetris) | Implementation of the classic Tetris. | JavaScript |
 | ❓ [TriviaAndy](https://github.com/Proyecto-Futuros-Andy-A-Porras-R/triviaAndy) | Question and answer game. | JavaScript |
-| 🁬 Domino *(Privado)* | Juego de dominó usando Pygame. | Python |
 
 ---
 
