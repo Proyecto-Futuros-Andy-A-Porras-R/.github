@@ -16,7 +16,7 @@ Welcome to my organization's main repository on GitHub! Here you will find a col
 
 | Project | Description | Language |
 |----------|-------------|----------|
-| 🚗 MiniWaze | Navigation/maps project inspired by Waze. | Python |
+| 🚗 [MiniWaze](https://github.com/Proyecto-Futuros-Andy-A-Porras-R/MiniWaze) | Navigation/maps project inspired by Waze. | Python |
 | 💼 Sistema de Ventas *(Privado)* | App with Tkinter interface for product, customer and sales management. | Python |
 | 📊 [CRM](https://github.com/Andyporras/CRM) | CRM type platform developed with ASP.NET Core MVC. | C# |
 
