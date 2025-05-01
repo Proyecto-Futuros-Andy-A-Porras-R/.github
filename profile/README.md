@@ -17,6 +17,7 @@ Welcome to my organization's main repository on GitHub! Here you will find a col
 |----------|-------------|----------|
 | 🚗 [MiniWaze](https://github.com/Proyecto-Futuros-Andy-A-Porras-R/MiniWaze) | Navigation/maps project inspired by Waze. | Python |
 | 📊 [CRM](https://github.com/Andyporras/CRM) | CRM type platform developed with ASP.NET Core MVC. | C# |
+| 📊 [Duende_makeapp](https://github.com/Andyporras/Duende_makeapp) | A makeup service management system featuring an agenda with collision detection, a notification center using the Observer pattern, and integration with a chat mediator for service inquiries. Supports multiple entry types using the Decorator pattern. | C# .net|
 
 
 ## Contact:
